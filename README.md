@@ -5,5 +5,4 @@
 * pandas
 * matplotlib
 * sklearn
-* Flask web app framework
 ### Instructions:
