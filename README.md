@@ -1,4 +1,4 @@
-# BBC News Classification
+# BBC News Text Classification
 ## Installation
 **Importing Libraries**</br>
 * numpy
