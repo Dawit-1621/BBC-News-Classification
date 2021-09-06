@@ -8,7 +8,7 @@
 
 
 ### Instructions
-Sampleing the dataset </br>
+Sampling the dataset </br>
 * t-SNE (t-Distributed Stochastic Neighbor Embedding)
 ## Dataset
   A public dataset from the BBC comprised of 2225 articles, each labeled under one of 5 categories: 
@@ -19,4 +19,5 @@ Sampleing the dataset </br>
 The dataset is broken into 1490 records for training and 735 for testing. The goal will be to build a system that can accurately classify previously unseen news articles into the right category.
 
 The dataset Kaggle link https://www.kaggle.com/c/learn-ai-bbc/data
+
 
