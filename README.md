@@ -6,7 +6,6 @@
 * matplotlib
 * sklearn
 
-
 ### Instructions
 Sampling the dataset </br>
 * t-SNE (t-Distributed Stochastic Neighbor Embedding)
