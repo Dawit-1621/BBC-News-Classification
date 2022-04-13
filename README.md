@@ -9,7 +9,6 @@
 * sklearn
 
 ### Instructions
-classifying BBC news articles into five categories using natural Language Processing and Machine Learning. </br>
 Sampling the dataset </br>
 * t-SNE (t-Distributed Stochastic Neighbor Embedding)
 
